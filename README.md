@@ -21,7 +21,8 @@ It’s designed for stakeholders including executive leadership, legal, and IT s
 
 ## 🧠 Project Background
 
-As a SOC analyst, you receive a phishing report from an internal user. A suspicious email appears to come from another employee:
+As an employee in the SecureTech Solutions SOC, you receive a report from an employee who believes they've received a phishing message from an internal user:
+
 
 > **From:** Jason Robinson `<jrobinson@securetech.com>`  
 > **To:** Stephanie Morgan `<smorgan@securetech.com>`  
