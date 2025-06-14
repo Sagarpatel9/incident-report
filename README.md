@@ -6,7 +6,7 @@ This project simulates a real-world incident response case involving a phishing 
 
 ---
 
-## 📄 🔥 Main Deliverable: [incident_respond.docx](incident_respond.docx)
+## 📄 🔥 Main Deliverable: [incident_respond.docx](Incident_respond.docx)
 
 This is the **executive-level incident report**, written to document:
 - Attack timeline
