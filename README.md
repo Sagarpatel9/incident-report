@@ -26,7 +26,7 @@ As a SOC analyst, you receive a phishing report from an internal user. A suspici
 > **From:** Jason Robinson `<jrobinson@securetech.com>`  
 > **To:** Stephanie Morgan `<smorgan@securetech.com>`  
 > _"You have one (1) new message"_  
-> 🔗 **Click here:** [srv-61.kim.johnson.biz/login](http://srv-61.kim.johnson.biz/login)
+> 🔗 **Click here:** [srv-61.kim.johnson.biz/login]
 
 You are provided access to:
 - HTTP metadata logs
