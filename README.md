@@ -6,7 +6,7 @@ This project simulates a real-world incident response case involving a phishing 
 
 ---
 
-## 📄 🔥 Main Deliverable: [incident_respond.docx](Incident_respond.docx)
+## 📄 🔥 Main Deliverable: [Incident_respond.docx](Incident_respond.docx)
 
 This is the **executive-level incident report**, written to document:
 - Attack timeline
@@ -56,10 +56,7 @@ These logs were used to trace account compromises, IP behavior, and attacker mov
   - Log queries and patterns
   - IP tracking and HTTP method analysis
   - Attack timeline reconstruction
-- `Phishing_attacks_notes.docx` – Notes on attacker tactics and methods used (DELETE, PUT, PATCH, TRACE, etc.)
 
-### 📘 Assignment Brief
-- `Background.docx` – Prompt and requirements for the project
 
 ---
 
@@ -73,7 +70,7 @@ These logs were used to trace account compromises, IP behavior, and attacker mov
 
 ---
 
-## 🧑‍💼 Note to Recruiters
+## 🧑‍💼 Note: 
 
 This project was designed to simulate a real-world security incident and demonstrate the end-to-end workflow of a SOC analyst:
 - Evidence gathering
@@ -81,7 +78,7 @@ This project was designed to simulate a real-world security incident and demonst
 - Stakeholder reporting
 - Risk communication
 
-Feel free to review the [main report](incident_respond.docx) and [investigation_log.docx](content/investigation_log.docx) to assess both technical and communication skills.
+Feel free to review the [main report](Incident_respond.docx) and [investigation_log.docx](content/investigation_log.docx) to assess both technical and communication skills.
 
 ---
 
